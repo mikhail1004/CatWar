@@ -1,0 +1,27 @@
+body{
+    background-size:cover;
+    text-align: center;
+}
+
+h1
+{
+    color:aliceblue;
+    top:0%;
+    font-size: 50px;
+}
+
+h2
+{
+    color:aliceblue;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Braveheart
+{
+    width: 3840px;
+    height: 2160px;
+}
+img
+{
+    margin-top:200px;
+}
